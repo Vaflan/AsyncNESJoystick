@@ -1,0 +1,7 @@
+AsyncNESJoystick	KEYWORD1
+readData	KEYWORD2
+getRegister	KEYWORD2
+isButtonPressed	KEYWORD2
+statusButtonsAsString	KEYWORD2
+asyncRead	KEYWORD2
+onСhange	KEYWORD2

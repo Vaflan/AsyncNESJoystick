@@ -1,0 +1,17 @@
+{
+    "name": "AsyncNESJoystick",
+    "keywords": "nes",
+    "description": "Asynchronous method for reading famiclone controllers (NES)",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Vaflan/AsyncNESJoystick.git"
+    },
+    "version": "1.0",
+    "examples": "examples/*.ino",
+    "frameworks": "arduino",
+    "platforms": [
+        "atmelavr",
+        "espressif8266",
+        "espressif32"
+    ]
+}
